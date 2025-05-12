@@ -15,6 +15,6 @@ Skilled MERN Stack Developer with 3.5+ years of experience in building responsiv
 - **Software Engineer**, Raja Software Labs (Jun 2021 – Jul 2023)
 
 ## 📫 Contact
-- **Email:** sanyuktayadav77@gmail.com  
+- **Email:** sanyuktayadav77@gmail.com
 - **LinkedIn:** [linkedin.com/in/sanyuktayadav77](https://linkedin.com/in/sanyuktayadav77)  
-- **GitHub:** [github.com/SanyuktaYadav](https://github.com/SanyuktaYadav)
+
