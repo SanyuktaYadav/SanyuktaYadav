@@ -1,6 +1,6 @@
 # Hi, I'm Sanyukta Yadav 👋
 
-Skilled MERN Stack Developer with 3.5+ years of experience in building responsive web applications and internal tools. Strong in React, Node.js, and JavaScript.
+Skilled MERN Stack Developer with 3.9+ years of experience in building responsive web applications and internal tools. Strong in React, Node.js, and JavaScript.
 
 ## 🔧 Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
